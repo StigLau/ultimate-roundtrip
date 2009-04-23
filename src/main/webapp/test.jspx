@@ -6,7 +6,7 @@
     <html>
     <head>
         <title>Simple jspx page</title>
-        <link rel="stylesheet" href="default.css" type="text/css"/>
+        <link rel="stylesheet" href="styles/default.css" type="text/css"/>
 
     </head>
     <body>
