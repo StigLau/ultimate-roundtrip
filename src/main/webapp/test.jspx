@@ -1,0 +1,17 @@
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" xmlns="http://www.w3.org/1999/xhtml" version="2.0"
+          xmlns:c="http://java.sun.com/jstl/core" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://java.sun.com/jstl/core ">
+
+    <html>
+    <head>
+        <title>Simple jspx page</title>
+        <link href="http://localhost:8080/ultimate-roundtrip/default.css" rel="stylesheet" type="text/css"/>
+
+    </head>
+    <body>
+    <p>
+        Hva skjer'a ${pageContext}?
+    </p>
+    </body>
+    </html>
+</jsp:root>
